@@ -1,0 +1,28 @@
+:root {
+  /*页面内容距左宽度*/
+  --pageMarginLeftWidth: 600px;
+  --minus_pageMarginLeftWidth: -600px;
+  --half_pageMarginLeftWidth: 300px;
+  --half_minus_pageMarginLeftWidth: -300px;
+  
+  /*左侧sider宽度*/
+  --leftNavWidth: 220px;
+  
+  /*头部字体样式*/
+  --headFontSize: 20px;
+
+  /*字体样式*/  
+  --fontColor: #000000;
+  --fontSize: 16px;
+
+  /*选中颜色及背景色*/
+  --activeColor: white;
+  --activeBgColor: rgba(0, 0, 0, 0.4);
+
+  /*链接字体颜色*/
+  --linkColor: whiteSmoke;
+
+  /*弹窗*/
+  --popupBgColor: rgba(0,0,0,0.8);
+  --popupFontColor: #FFF;
+}

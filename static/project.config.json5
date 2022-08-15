@@ -1,0 +1,24 @@
+{
+  leftMenus:[
+    {
+      label: '影画廊',
+      link: 'ImageGallery'
+    },
+    {
+      label: '龙卷风摧毁停车场',
+      link: 'TornadBreakPark'
+    },
+    {
+      label: '异步问题',
+      link: 'yibuProblem'
+    },
+    {
+      label: 'Messenger应用',
+      link: 'messengerApply'
+    },
+    {
+      label: 'test',
+      link: 'Test'
+    }
+  ]
+}
